@@ -1,4 +1,4 @@
-### Hello, Working Ajax Requests with AngularJS
+# Hello, Working Ajax Requests with AngularJS
 
 I had the most insane moments on-boarding with AngularJS from jQuery when I ran into this odd 
 issue with the preparation of XHR requests for my AngularJS Projects. Some things to call out 
