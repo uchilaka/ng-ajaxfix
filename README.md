@@ -46,7 +46,7 @@ XHR helpers.
 
 This was inspired by something else. Not sure where on the interwebs, but some kind developer left me a 
 post that saved my life. Just doing this as an easy way to apply as a centralized dependency for my (LarCity)
-projects.
+projects - and to share with you, kind people of the Open Software Community.
 
 Enjoy!
 
