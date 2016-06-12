@@ -42,6 +42,12 @@ Here's a simple implementation of the patch:
 That's it! And the patch is applied, and you can now use `$http` the same way you've used other jQuery
 XHR helpers.
 
+## Lastly, Can't Take Full Credit...
+
+This was inspired by something else. Not sure where on the interwebs, but some kind developer left me a 
+post that saved my life. Just doing this as an easy way to apply as a centralized dependency for my (LarCity)
+projects.
+
 Enjoy!
 
 Uch.
